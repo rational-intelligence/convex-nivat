@@ -171,5 +171,5 @@ shipped files and hashes are listed in
 Lean and Mathlib retain their upstream licenses.
 
 To cite this formalization, refer to
-[EonMath/convex-nivat](https://github.com/EonMath/convex-nivat), specifying the
+[rational-intelligence/convex-nivat](https://github.com/rational-intelligence/convex-nivat), specifying the
 commit used.
